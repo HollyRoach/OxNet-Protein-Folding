@@ -12,7 +12,7 @@ This notebook provides the Python code necessary to load the data and manipulate
 
 For the homework you should work through the provided Jupyter notebook, reading each entry and doing your best to understand each cell of Python code.
 Feel free to edit the code, or run additional tests, as you wish. There are several challenges and tasks set out in this notebook.
-However, you will likely find it easier to write your own code in a new notebook which you will then later submit as part of the Easter Competition.
+However, you will likely find it easier to write your own code in a new notebook which you can then later submit.
 
 # Cloning this repository
 
